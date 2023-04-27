@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" build-on-make="true" name="ChemistryMaze">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChemistryMaze</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="GameLauncher" />
+        <option name="description" value="" />
+        <option name="height" value="600" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="ChemistryMaze" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="JProcessingFX.jar">
+        <element id="module-output" name="JProcessingFX" />
+        <element id="dir-copy" path="$PROJECT_DIR$/Resources" />
+      </element>
+    </root>
+  </artifact>
+</component>
